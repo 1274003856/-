@@ -15,3 +15,6 @@
 <我script src="./kbn/autoload.js"></script>
 
 就可以完美看到效果啦
+
+
+地址  https://gitee.com/wyplayer/kanbanniang
